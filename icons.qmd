@@ -1,0 +1,76 @@
+---
+title: "Untitled"
+format: html
+editor: visual
+---
+
+# test
+
+<a href="https://example.com">
+  <i class="fas fa-battery-half fa-5x" title="Battery Half"></i>
+</a>
+
+
+<a href="mailto:Christopher.Gaskell@combined.nhs.uk">
+  <i class="fas fa-envelope fa-2x" title="Battery Half"></i>
+</a>
+
+<a href="mailto:Christopher.Gaskell@combined.nhs.uk">
+  <i class="fas fa-envelope fa-2x"></i>
+
+<a href="mailto:Christopher.Gaskell@combined.nhs.uk">
+  <i class="fas brand-twitter fa-2x"></i>
+</a>
+
+<a href="mailto:Christopher.Gaskell@combined.nhs.uk">
+  <i class="fas brand-github fa-2x"></i>
+</a>
+
+<a href="mailto:Christopher.Gaskell@combined.nhs.uk">
+  <i class="fas graduation-cap fa-2x"></i>
+</a>
+
+<a href="mailto:Christopher.Gaskell@combined.nhs.uk">
+  <i class="fas brand-researchgate fa-2x"></i>
+</a>
+
+<a href="mailto:Christopher.Gaskell@combined.nhs.uk">
+  <i class="fas brand-linkedin fa-2x"></i>
+</a>
+
+
+<a href="mailto:Christopher.Gaskell@combined.nhs.uk">
+  <i class="fas fa-envelope fa-2x"></i>
+
+<a href="mailto:Christopher.Gaskell@combined.nhs.uk">
+  <i class="fa-brands fa-facebook fa-2x"></i>
+</a>
+
+<a href="mailto:Christopher.Gaskell@combined.nhs.uk">
+  <i class="fas brand github fa-2x"></i>
+</a>
+
+<a href="mailto:Christopher.Gaskell@combined.nhs.uk">
+  <i class="fas fa-graduation-cap fa-2x"></i>
+</a>
+
+<a href="mailto:Christopher.Gaskell@combined.nhs.uk">
+  <i class="fas fa-research-gate fa-2x"></i>
+</a>
+
+<a href="mailto:Christopher.Gaskell@combined.nhs.uk">
+  <i class="fas brand linkedin fa-2x"></i>
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- [`r icons::icon_style(icons::fontawesome("envelope"), scale = 1.5)`](mailto:Christopher.Gaskell@combined.nhs.uk) [`r icons::icon_style(icons::fontawesome("twitter"), scale = 1.5)`](https://twitter.com/chrisgaskell92) [`r icons::icon_style(icons::fontawesome("github"), scale = 1.5)`](https://github.com/chris-gaskell) [`r icons::icon_style(icons::fontawesome("graduation-cap"), scale = 1.5)`](https://scholar.google.co.uk/citations?user=SloDt6kAAAAJ&hl=en&oi=ao) [`r icons::icon_style(icons::fontawesome("researchgate"), scale = 1.5)`](https://www.researchgate.net/profile/Chris-Gaskell-2) [`r icons::icon_style(icons::fontawesome("linkedin"), scale = 1.5)`](https://www.linkedin.com/in/chris-gaskell/) -->
