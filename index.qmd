@@ -14,6 +14,11 @@ format:
         <meta name="twitter:creator" content="@chrisgaskell92/>
         <meta nam§e="twitter:site" content="@chrisgaskell92"/>
     smaller: false
+    twitter-card: true
+    contributor: "Dr. Chris Gaskell"
+    image: "twitter-image.png"
+    description: "An Introduction to Working with Functional Dissociative Seizures"
+    site-url: "https://fds-for-neuropsychology.netlify.app"
     scrollable: true
     incremental: false
     theme: [simple, custom.scss]
@@ -33,7 +38,7 @@ format:
 bibliography: references.bib
 ---
 
-## An Introducti n to Working with Functional Dissociative Seizures {background-iframe="my-iframe/index.html" background-color="#01364C" style="font-size: 35px; text-align: center;"}
+## An Introduction to Working with Functional Dissociative Seizures {background-iframe="my-iframe/index.html" background-color="#01364C" style="font-size: 35px; text-align: center;"}
 
 Dr Chris Gaskell
 
@@ -185,7 +190,7 @@ Classified by [neurosymptoms.org](https://www.neurosymptoms.org/en_GB/symptoms/)
 Taken from a [survey of 1048 individuals living with FND]{.aside}[^3]
 :::
 
-[^3]: Taken from [Butler et al., 2021)](https://onlinelibrary.wiley.com/doi/abs/10.1111/ene.15018?casa_token=2uCYK3ti2IMAAAAA:scIHpsYzg1-fU-YKXrGNfEOeq6oNNk_ILusUvSlaCCI2KwYUCXa2B19jwp-MNM4B23U7b2ECC7lQ7Rs)
+[^3]: Butler, M., Shipston-Sharman, O., Seynaeve, M., Bao, J., Pick, S., Bradley-Westguard, A., Ilola, E., Mildon, B., Golder, D., & Rucker, J. (2021). International online survey of 1048 individuals with functional neurological disorder. *European Journal of Neurology*, 28(11), 3591-3602. <https://doi.org/10.1111/ene.15018>
 
 ::: notes
 -   These visualisations come from a recent survey of people living with FND.
@@ -282,6 +287,8 @@ Taken from [Raynor & Baslet (2021)](https://www.sciencedirect.com/science/articl
 
 Usually made by a Neurologist or Neuropsychiatrist.
 
+::: columns
+::: {.column width="50%"}
 Assessments can include:
 
 -   Clinical history
@@ -297,6 +304,12 @@ Assessments can include:
 -   Video telemetry
 
 Any professional who potentially comes into contact with patients has a potential role in identification and/or clarification.
+:::
+
+::: {.column width="50%"}
+![](files/eeg.jpeg)
+:::
+:::
 
 ::: notes
 -   **Key dilemma =** Prompt and accurate diagnosis.
@@ -312,7 +325,9 @@ Any professional who potentially comes into contact with patients has a potentia
 
 ## Clinical Features {background-color="white"}
 
-Taken from: FND in the emergency department [Finkelstein et al (2021)](https://onlinelibrary.wiley.com/doi/full/10.1111/acem.14263)
+Taken from Finkelstein et al (2021)[^4]
+
+[^4]: Finkelstein, S. A., Cortel-LeBlanc, M. A., Cortel-LeBlanc, A., & Stone, J. (2021). Functional neurological disorder in the emergency department. *Academic Emergency Medicine*, 28(6), 685-696. <https://doi.org/10.1111/acem.14263>
 
 ![](files/img/Stone-NEAD-Table.png){width="1200" height="1200"}
 
@@ -320,17 +335,17 @@ Taken from: FND in the emergency department [Finkelstein et al (2021)](https://o
 
 Difficult to distinguish from other conditions.
 
--   Long duration from onset to diagnosis[^4].
+-   Long duration from onset to diagnosis[^5].
 
--   FDS treated using epileptic seizure protocols[^5].
+-   FDS treated using epileptic seizure protocols[^6].
 
 -   Prolonged use of anti-convulsants.
 
 -   Lack of access to necessary support and treatment.
 
-[^4]: Kerr, W. T., Sreenivasan, S. S., Allas, C. H., Janio, E. A., Karimi, A. H., Dubey, I., D'Ambrosio, S. R., Smith, J. M., Engel Jr., J., Feusner, J. D., & Stern, J. M. (2021). Functional seizures across the adult lifespan: female sex, delay to diagnosis and disability. Seizure, 91, 476-483. doi: [10.1016/j.seizure.2021.07.025](https://doi.org/10.1016/j.seizure.2021.07.025 "Persistent link using digital object identifier")
+[^5]: Kerr, W. T., Sreenivasan, S. S., Allas, C. H., Janio, E. A., Karimi, A. H., Dubey, I., D'Ambrosio, S. R., Smith, J. M., Engel Jr., J., Feusner, J. D., & Stern, J. M. (2021). Functional seizures across the adult lifespan: female sex, delay to diagnosis and disability. Seizure, 91, 476-483. doi: [10.1016/j.seizure.2021.07.025](https://doi.org/10.1016/j.seizure.2021.07.025 "Persistent link using digital object identifier")
 
-[^5]: Jungilligens, J., Michaelis, R., & Popkirov, S. (2021). Misdiagnosis of prolonged psychogenic non-epileptic seizures as status epilepticus: epidemiology and associated risks. Journal of Neurology, Neurosurgery, and Psychiatry, 0, 1–5. <https://doi.org/10.1136/jnnp-2021-326443>
+[^6]: Jungilligens, J., Michaelis, R., & Popkirov, S. (2021). Misdiagnosis of prolonged psychogenic non-epileptic seizures as status epilepticus: epidemiology and associated risks. Journal of Neurology, Neurosurgery, and Psychiatry, 0, 1–5. <https://doi.org/10.1136/jnnp-2021-326443>
 
 ::: notes
 Often leads to problems with:
@@ -351,7 +366,7 @@ Often leads to problems with:
 ::: callout-important
 ## Important Notes around Diagnosis in FND {visibility="hidden"}
 
--   Based on positive clinical signs/symptoms[^6].
+-   Based on positive clinical signs/symptoms[^7].
 
 -   Internal inconsistency (reversibility) and/or to a lesser extent incongruency with known patterns of structural neurological disease.
 
@@ -362,7 +377,7 @@ Often leads to problems with:
 -   Following diagnosis, new symptoms are frequently (and wrongfully) dismissed.
 :::
 
-[^6]: Helpful articles on positive symptoms include [Aybeck, 2022](%22https://drive.google.com/file/d/1YZF-9aHuYeLkgAErzHXx4F-I-rC_2lNq/view) & [Finkelstein et al (2021)](https://onlinelibrary.wiley.com/doi/full/10.1111/acem.14263)
+[^7]: Helpful articles on positive symptoms include [Aybeck, 2022](%22https://drive.google.com/file/d/1YZF-9aHuYeLkgAErzHXx4F-I-rC_2lNq/view) & [Finkelstein et al (2021)](https://onlinelibrary.wiley.com/doi/full/10.1111/acem.14263)
 
 ::: notes
 -   For too often been a diagnosis of exclusion
@@ -414,41 +429,54 @@ Taken from [Aybek et al (2022)](https://drive.google.com/file/d/1YZF-9aHuYeLkgAE
 
 **Prevalence:**
 
--   Norway: 24/100,000[^7] (95% CI = 18–30)
+-   Challenging to calculate[^8]
+-   Norway: 24/100,000[^9] (95% CI = 18–30)
+-   2-33/100,000-[^10]
 
-[^7]: Villagrán, A., Eldøen, G., Duncan, R., Aaberg, K. M., Hofoss, D., & Lossius, M. I. (2021). Incidence and prevalence of psychogenic nonepileptic seizures in a Norwegian county: A 10-year population-based study. Epilepsia, 0, 1-5. <https://doi.org/10.1111/epi.16949>
+[^8]: In the absence of well-resourced, formal epidemiological studies and confounded by diagnostic delays.
+
+    Kanemoto, K., LaFrance Jr., W. C., Duncan, R., Gigineishvili, D., Park, S.-P., Tadokoro, Y., Ikeda, H., Paul, R., Zhou, D., Taniguchi, G., Kerr, M., Oshima, T., Jin, K., & Reuber, M. (2017). PNES around the world: Where we are now and how we can close the diagnosis and treatment gaps—an ILAE PNES Task Force report. *Epilepsia Open, 2*(3), 307–316. https://doi.org/10.1002/epi4.12060
+
+[^9]: Villagrán, A., Eldøen, G., Duncan, R., Aaberg, K. M., Hofoss, D., & Lossius, M. I. (2021). Incidence and prevalence of psychogenic nonepileptic seizures in a Norwegian county: A 10-year population-based study. Epilepsia, 0, 1-5. <https://doi.org/10.1111/epi.16949>
+
+[^10]: Based on the number of patients referred toepilepsy centers who are thought to have severe epilepsybut who turn out to have PNES.
+
+    Benbadis, S. R., & Hauser, W. A. (2000). An estimate of the prevalence of psychogenic non-epileptic seizures. *Seizure, 9*, 280–281.
 
 **Incidence:**
 
--   Norway: 3.1/100,000 per year (95% CI = 2.4–3.7)
+-   Norway: 3.1/100,000 per year (95% CI = 2.4–3.7).
 
--   Sweden: 1.2/100,000 per year[^8]
+-   Sweden: 1.2/100,000 per year[^11].
 
-[^8]: Zhang, L., Beghi, E., Tomson, T., Beghi, M., Erba, G., & Chang, Z. (2022). Mortality in patients with psychogenic non-epileptic seizures: A population-based cohort study. Journal of Neurology, Neurosurgery & Psychiatry, 93(4), 379-385. [doi:10.1136/jnnp-2021-328035](https://10.1136/jnnp-2021-328035)
+-   UK (older study): 4.09/100,000[^12].
 
-**UK Data:**
+[^11]: Zhang, L., Beghi, E., Tomson, T., Beghi, M., Erba, G., & Chang, Z. (2022). Mortality in patients with psychogenic non-epileptic seizures: A population-based cohort study. Journal of Neurology, Neurosurgery & Psychiatry, 93(4), 379-385. [doi:10.1136/jnnp-2021-328035](https://10.1136/jnnp-2021-328035)
 
-**Check on Refs**
+[^12]: Duncan, R., Razvi, S., & Mulhern, S. (2011). Newly presenting psychogenic nonepileptic seizures: Incidence, population characteristics, and early outcome from a prospective audit of a first seizure clinic. *Epilepsy & Behavior, 20*, 308–311. https://doi.org/10.1016/j.yebeh.2010.11.009
 
-2-33/100000 (Carson, 2016).
+**UK:**
 
 -   Estimated 20,000 people in the UK.
 
-**Healthcare**
+**Healthcare:**
 
--   8-12% of new presentations to seizure clinics[^9].
+-   8-12% of new presentations to seizure clinics[^13].
 
--   11% of seizures presenting to emergency services[^10].
+-   11% of seizures presenting to emergency services[^14].
 
-[^9]: Angus-Leppan, H. (2008). Diagnosing epilepsy in neurology clinics: A prospective study. Seizure, 17(5), 431-436. https://doi.org/10.1016/j.seizure.2007.12.010
+-   20–30% of patients referred to epilepsy centers with intractable seizures[^15]
 
-[^10]: Dickson, J. M., Dudhill, H., Shewan, J., Mason, S., Grünewald, R. A., & Reuber, M. (2017). Cross-sectional study of the hospital management of adult patients with a suspected seizure (EPIC2). BMJ Open, 7(7), e015696. <https://doi.org/10.1136/bmjopen-2016-015696>
+[^13]: Angus-Leppan, H. (2008). Diagnosing epilepsy in neurology clinics: A prospective study. Seizure, 17(5), 431-436. https://doi.org/10.1016/j.seizure.2007.12.010
 
-::: aside
--   It's difficult to accurately quantify prevalence rates.
-:::
+[^14]: Dickson, J. M., Dudhill, H., Shewan, J., Mason, S., Grünewald, R. A., & Reuber, M. (2017). Cross-sectional study of the hospital management of adult patients with a suspected seizure (EPIC2). BMJ Open, 7(7), e015696. <https://doi.org/10.1136/bmjopen-2016-015696>
+
+[^15]: The vast majority of these patients are eventually diagnosed with PNES.
+
+    Bompaire, F., Barthelemy, S., Monin, J., Quirins, M., Marion, L., Smith, C., Boulogne, S., & Auxemery, Y. (2021). PNES epidemiology: What is known, what is new? *European Journal of Trauma & Dissociation*, 5(1), 100136. <https://doi.org/10.1016/j.ejtd.2019.100136>
 
 ::: notes
+-   It's difficult to accurately quantify prevalence rates.
 -   Accurate data on the epidemiology of FDS are limited, with no UK population-level studies.29 A study in a Norwegian county (population 260,000) used patient registry data between 2010–2020 to describe a prevalence of 24/100,000 (95%CI 18–30) and incidence of 3.1/100,000/yr (95%CI 2.4–3.7).30 A Swedish population-level study found an incidence of 1.2/100,000/yr between 2001–2013.9 These Nordic studies may underestimate the true incidence and prevalence of FDS given that they are based on primary care coding and do not include people initially (or erroneously) diagnosed with epilepsy or those with epilepsy and FDS (up to 10% of the FDS population).31,32 A recent systematic review based on five previous studies found a prevalence of 108/100,000 (95%CI 40–178) and an incidence of 3.1/100,000/yr (95%CI 1.1–5.1).29
 -   There are higher rates of mental and physical illnesses in people with FDS.5,33–35 A systematic review and meta-analysis have shown higher rates of physical symptoms, posttraumatic stress disorder, depression and anxiety when compared with people with epilepsy and the general population.36,37 FDS may be more common in people with intellectual disability, with a median of 9% of people with FDS having intellectual disability across 11 cohort studies.38 However the prevalence of FDS has not been studied at population level in this neglected and vulnerable population.38,39
 -   International Classification of Disease (ICD) v 10 codes (Secondary Care) F445 – Dissociative Convulsions
@@ -466,51 +494,78 @@ Taken from [Aybek et al (2022)](https://drive.google.com/file/d/1YZF-9aHuYeLkgAE
 
 ## Risk Factors
 
-For a detailed account of risk and aetiological factors see Popkirov et al., (2019)[^11]
+For a detailed account of risk and aetiological factors see Popkirov et al., (2019)[^16]
 
-[^11]: Popkirov, S., Asadi-Pooya, A. A., Duncan, R., Gigineishvili, D., Hingray, C., Kanner, A. M., LaFrance Jr., W. C., Pretorius, C., & Reuber, M. (2019). The aetiology of psychogenic non-epileptic seizures: Risk factors and comorbidities. Epileptic Disorders, 21(6), 529-547. [10.1684/epd.2019.1107](https://onlinelibrary.wiley.com/doi/pdf/10.1684/epd.2019.1107)
+[^16]: Popkirov, S., Asadi-Pooya, A. A., Duncan, R., Gigineishvili, D., Hingray, C., Kanner, A. M., LaFrance Jr., W. C., Pretorius, C., & Reuber, M. (2019). The aetiology of psychogenic non-epileptic seizures: Risk factors and comorbidities. Epileptic Disorders, 21(6), 529-547. [10.1684/epd.2019.1107](https://onlinelibrary.wiley.com/doi/pdf/10.1684/epd.2019.1107)
 
-+-------------------------------+-----------------------------------------------------------+
-| Variable                      | Findings                                                  |
-+===============================+===========================================================+
-| **Age**                       | -   Presents across the life span.                        |
-|                               |                                                           |
-|                               | -   Young adults (15-19) most at risk[^12]                |
-+-------------------------------+-----------------------------------------------------------+
-| **Gender**                    | -   Female preponderance = 60-80% **UPDATE** **CITATION** |
-|                               |                                                           |
-|                               | -   Disparities less evident in older cohorts[^13].       |
-+-------------------------------+-----------------------------------------------------------+
-| **Epilepsy:**                 | -   High rate of co-morbidity **UPDATE** **CITATION**.    |
-+-------------------------------+-----------------------------------------------------------+
-| **Learning Disabilities**     | -   High rate of co-morbidity[^14]                        |
-+-------------------------------+-----------------------------------------------------------+
-| **Demographics**              | -   White and low SES. **UPDATE** **CITATION**.           |
-+-------------------------------+-----------------------------------------------------------+
-| **Psychiatric Co-morbidity:** | -   Anxiety and depression. **UPDATE** **CITATION**.      |
-|                               |                                                           |
-|                               | -   Interpersonal disorders. **UPDATE** **CITATION**.     |
-|                               |                                                           |
-|                               | -   PTSD, Trauma. **UPDATE** **CITATION**.                |
-+-------------------------------+-----------------------------------------------------------+
-| **Health Co-morbidity:**      | -   Pain & Fatigue. **UPDATE** **CITATIONS**.             |
-|                               |                                                           |
-|                               | -   Sleep disturbance.                                    |
-|                               |                                                           |
-|                               | -   Migraine.                                             |
-|                               |                                                           |
-|                               | -   TBI.                                                  |
-|                               |                                                           |
-|                               | -   Epilepsy Surgery                                      |
-+-------------------------------+-----------------------------------------------------------+
++-------------------------------+-------------------------------------------------------------------------+
+| Variable                      | Findings                                                                |
++===============================+=========================================================================+
+| **Age**                       | -   Often 2nd to 4th decades of life.                                   |
+|                               |                                                                         |
+|                               | -   Young adults (15-19) most at risk[^17].                             |
+|                               |                                                                         |
+|                               | -   Distribution evens out for older adults (**UPDATE** **CITATION**).  |
++-------------------------------+-------------------------------------------------------------------------+
+| **Gender**                    | -   Female preponderance = 60-80%[^18].                                 |
+|                               |                                                                         |
+|                               | -   Modal age of onset = 16 (**UPDATE** **CITATION**).                  |
+|                               |                                                                         |
+|                               | -   Disparities less evident in older cohorts[^19].                     |
++-------------------------------+-------------------------------------------------------------------------+
+| **Epilepsy:**                 | -   High rate of co-morbidity[^20].                                     |
++-------------------------------+-------------------------------------------------------------------------+
+| **Learning Disabilities**     | -   High rate of co-morbidity[^21]                                      |
++-------------------------------+-------------------------------------------------------------------------+
+| **Demographics**              | -   Low rates of SES and employment[^22].                               |
++-------------------------------+-------------------------------------------------------------------------+
+| **Psychiatric Co-morbidity:** | -   High rates of anxiety (29%), depression (48%), and PTSD (23%)[^23]. |
+|                               |                                                                         |
+|                               | -   Severity doesn't impact long-term outcome?[^24]                     |
++-------------------------------+-------------------------------------------------------------------------+
+| **Health Co-morbidity:**      | -   Pain & Fatigue. **UPDATE** **CITATIONS**.                           |
+|                               |                                                                         |
+|                               | -   Sleep disturbance.                                                  |
+|                               |                                                                         |
+|                               | -   Migraine.                                                           |
+|                               |                                                                         |
+|                               | -   TBI.                                                                |
+|                               |                                                                         |
+|                               | -   Epilepsy Surgery                                                    |
++-------------------------------+-------------------------------------------------------------------------+
 
-[^12]: 59.5 per 100,000.\
-    Villagrán, A., Eldøen, G., Duncan, R., Aaberg, K. M., Hofoss, D., & Lossius, M. I. (2021). Incidence and prevalence of psychogenic nonepileptic seizures in a Norwegian county: A 10-year population-based study. Epilepsia, 0, 1-5. <https://doi.org/10.1111/epi.16949>
+[^17]: Villagrán, A., Eldøen, G., Duncan, R., Aaberg, K. M., Hofoss, D., & Lossius, M. I. (2021). Incidence and prevalence of psychogenic nonepileptic seizures in a Norwegian county: A 10-year population-based study. Epilepsia, 0, 1-5. <https://doi.org/10.1111/epi.16949>
 
-[^13]: Jungilligens, J., Michaelis, R., & Popkirov, S. (2021). Misdiagnosis of prolonged psychogenic non-epileptic seizures as status epilepticus: epidemiology and associated risks. Journal of Neurology, Neurosurgery, and Psychiatry, 0, 1–5. <https://doi.org/10.1136/jnnp-2021-326443>
+[^18]: IPDMA showed 72.6% woman out of 4905 cases with FND.
 
-[^14]: Median rate of 9.4%.\
+    Lidstone, S. C., Costa-Parke, M., Robinson, E. J., et al. (2022). Functional movement disorder gender, age and phenotype study: A systematic review and individual patient meta-analysis of 4905 cases. *Journal of Neurology, Neurosurgery, and Psychiatry*, 93, 609–616.
+
+[^19]: Jungilligens, J., Michaelis, R., & Popkirov, S. (2021). Misdiagnosis of prolonged psychogenic non-epileptic seizures as status epilepticus: epidemiology and associated risks. Journal of Neurology, Neurosurgery, and Psychiatry, 0, 1–5. <https://doi.org/10.1136/jnnp-2021-326443>
+
+[^20]:
+    -   Epilepsy in patients with PNES across all studies was 22% (95% CI = 20-25%).
+
+    <!-- -->
+
+    -   PNES in patients with epilepsy was 12% (95% CI =10-14%”.
+
+    Kutlubaev, M. A., Xu, Y., Hackett, M. L., & Stone, J. (2018). Dual diagnosis of epilepsy and psychogenic nonepileptic seizures: Systematic review and meta-analysis of frequency, correlates, and outcomes. *Epilepsy & Behavior*, 89, 70-78.
+
+[^21]: Median rate of 9.4%.\
     Rawlings, G. H., Novakova, B., Beail, N., & Reuber, M. (2021). What do we know about non-epileptic seizures in adults with intellectual disability: A narrative review. *Seizure*, *91*, 437-446.\
+
+[^22]:
+    -   \>50% Within the highest deprivation quintile.
+
+    -   \> 2/3 Unemployed at the point of seeking treatment for PNES.
+
+    Goldstein, L. H., Robinson, E. J., Mellers, J. D. C., et al. (2020). Cognitive behavioural therapy for adults with dissociative seizures (CODES): A pragmatic, multicentre, randomised controlled trial. *Lancet Psychiatry, 7*(6), 491–505.
+
+[^23]: Goldstein, L. H., Robinson, E. J., Mellers, J. D. C., et al. (2020). Cognitive behavioural therapy for adults with dissociative seizures (CODES): A pragmatic, multicentre, randomised controlled trial. *Lancet Psychiatry, 7*(6), 491–505.
+
+[^24]: IPDMA (k = 8, N = 348 individuals). Depression and anxiety were present in 51.4% and 53.0% of FND-par patients, respectively. In individuals whose FND improved, there was no significant difference between those with versus without depression.
+
+    Calma, A. D., Heffernan, J., Farrell, N., Gelauff, J., O'Connell, N., Perez, D. L., Perriman, D., Smyth, L., Stone, J., & Lueck, C. J. (2023). The impact of depression, anxiety and personality disorders on the outcome of patients with functional limb weakness – Individual patient data meta-analysis. *Journal of Psychosomatic Research, 175*, 111513.
 
 ::: notes
 **Age:**
@@ -609,11 +664,11 @@ Our results show that the rate of childhood and adult stressful life events and 
 ::: {.column width="50%"}
 -   `Functional:` Impairment of function.
 
--   **Not** suggesting a behavioural component[^15].
+-   **Not** suggesting a behavioural component[^25].
 
 -   Functional-Organic terminology promotes dualism.
 
--   Can a person truly be non-organic?[^16]
+-   Can a person truly be non-organic?[^26]
 
 -   Software problem vs. hardware problem?
 :::
@@ -623,9 +678,9 @@ Our results show that the rate of childhood and adult stressful life events and 
 :::
 :::
 
-[^15]: Not related to the behavioural notion of 'functional analysis'
+[^25]: Not related to the behavioural notion of 'functional analysis'
 
-[^16]: See this video by [John Stone](https://www.youtube.com/watch?v=ersm5f_0LVI&t=21s%22) or the excellent [review paper](https://www.bmj.com/content/380/bmj.p221) on 'functional' vs 'organic'
+[^26]: See this video by [John Stone](https://www.youtube.com/watch?v=ersm5f_0LVI&t=21s%22) or the excellent [review paper](https://www.bmj.com/content/380/bmj.p221) on 'functional' vs 'organic'
 
 ::: notes
 -   (i.e., not relating to or derived from living matter).
@@ -660,6 +715,67 @@ Functional seizures.
 Psychological seizures.
 
 Pseudo-seizures.
+
+::: {style="font-size: 3em; color: red;"}
+Seizure.
+:::
+
+##  {auto-animate="true" auto-animate-duration="1.3"}
+
+Many terms have been used to describe a
+
+Non-epileptic attacks.
+
+Psychogenic seizures.
+
+Psychogenic non-epileptic seizures (PNES).
+
+Dissociative seizures.
+
+[~~**Conversion**~~]{style="color:red;"} disorder.
+
+Functional seizures.
+
+Psychological seizures.
+
+[~~**Pseudo**~~]{style="color:red;"}-seizures.
+
+::: {style="font-size: 3em; color: red;"}
+Seizure.
+:::
+
+
+
+
+##  {auto-animate="true" auto-animate-duration="1.3"}
+
+Many terms have been used to describe a
+
+Non-epileptic attacks.
+
+[~~**Psychogenic**~~]{style="color:orange;"} seizures.
+
+[~~**Psychogenic**~~]{style="color:orange;"} non-epileptic seizures (PNES).
+
+Dissociative seizures.
+
+Functional seizures.
+
+[~~**Psychological**~~]{style="color:orange;"} seizures. 
+
+::: {style="font-size: 3em; color: red;"}
+Seizure.
+:::
+
+##  {auto-animate="true" auto-animate-duration="1.3"}
+
+Many terms have been used to describe a
+
+Non-epileptic attacks.
+
+Dissociative seizures.
+
+Functional seizures.
 
 ::: {style="font-size: 3em; color: red;"}
 Seizure.
@@ -709,7 +825,7 @@ Many terms have been used:
 
 ::: columns
 ::: {.column width="50%"}
-Much debate regarding preferred term[^17].
+Much debate regarding preferred term[^27].
 
 Communication has a significant impact on:
 
@@ -729,7 +845,7 @@ Be led by the individual
 :::
 :::
 
-[^17]:
+[^27]:
     ::: {.column width="50%"}
     (see [Stone et al., 2003](https://www.sciencedirect.com/science/article/pii/S1059131103000554%22), [Barron., 2019](https://www.seizure-journal.com/article/S1059-1311(19)30337-1/pdf), FND Society., 2020, & [La France., 2010](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2906405/).
     :::
@@ -838,11 +954,11 @@ Taken from recent [Loewenberger, 2021](https://onlinelibrary.wiley.com/doi/full/
 
 -   Not just about the core FND symptoms.
 
--   7+ outcome measures used per study (unpublished study).[^18]
+-   7+ outcome measures used per study (unpublished study).[^28]
 
 -   Core outcome battery and specific tools still lacking (for now).
 
-[^18]: Results being prepared for publication.
+[^28]: Results being prepared for publication.
 
 Taken from [Nicholson (2020)](https://neuro.psychiatryonline.org/doi/abs/10.1176/appi.neuropsych.19060128)
 
