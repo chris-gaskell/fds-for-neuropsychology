@@ -91,7 +91,7 @@ North Staffordshire Combined Healthcare NHS Trust
 
 -   Introduction
 
--   `Background` of Functional Dissociative Seizures
+-   `Background` to Functional Dissociative Seizures
 
 -   Importance of `Language` {{< fa comment-dots >}}
 
@@ -302,14 +302,14 @@ Assessments can include:
 -   ECG (electrocardiogram)
 
 -   Video telemetry
-
-Any professional who potentially comes into contact with patients has a potential role in identification and/or clarification.
 :::
 
 ::: {.column width="50%"}
 ![](files/eeg.jpeg)
 :::
 :::
+
+Any professional who potentially comes into contact with patients has a potential role in identification and/or clarification
 
 ::: notes
 -   **Key dilemma =** Prompt and accurate diagnosis.
@@ -457,21 +457,24 @@ Taken from [Aybek et al (2022)](https://drive.google.com/file/d/1YZF-9aHuYeLkgAE
 
 **UK:**
 
--   Estimated 20,000 people in the UK.
+-   8,000 new diagnoses of FND per year.
+-   Subsequently estimated 50,000–100,000 people in the UK[^13].
+
+[^13]: Carson, A., & Lehn, A. (2016). Epidemiology. In M. Hallett, J. Stone, & A. Carson (Eds.), *Handbook of clinical neurology: Vol 139: Functional neurologic disorders* (pp. 47–60). Elsevier.
 
 **Healthcare:**
 
--   8-12% of new presentations to seizure clinics[^13].
+-   8-12% of new presentations to seizure clinics[^14].
 
--   11% of seizures presenting to emergency services[^14].
+-   11% of seizures presenting to emergency services[^15].
 
--   20–30% of patients referred to epilepsy centers with intractable seizures[^15]
+-   20–30% of patients referred to epilepsy centers with intractable seizures[^16]
 
-[^13]: Angus-Leppan, H. (2008). Diagnosing epilepsy in neurology clinics: A prospective study. Seizure, 17(5), 431-436. https://doi.org/10.1016/j.seizure.2007.12.010
+[^14]: Angus-Leppan, H. (2008). Diagnosing epilepsy in neurology clinics: A prospective study. Seizure, 17(5), 431-436. https://doi.org/10.1016/j.seizure.2007.12.010
 
-[^14]: Dickson, J. M., Dudhill, H., Shewan, J., Mason, S., Grünewald, R. A., & Reuber, M. (2017). Cross-sectional study of the hospital management of adult patients with a suspected seizure (EPIC2). BMJ Open, 7(7), e015696. <https://doi.org/10.1136/bmjopen-2016-015696>
+[^15]: Dickson, J. M., Dudhill, H., Shewan, J., Mason, S., Grünewald, R. A., & Reuber, M. (2017). Cross-sectional study of the hospital management of adult patients with a suspected seizure (EPIC2). BMJ Open, 7(7), e015696. <https://doi.org/10.1136/bmjopen-2016-015696>
 
-[^15]: The vast majority of these patients are eventually diagnosed with PNES.
+[^16]: The vast majority of these patients are eventually diagnosed with PNES.
 
     Bompaire, F., Barthelemy, S., Monin, J., Quirins, M., Marion, L., Smith, C., Boulogne, S., & Auxemery, Y. (2021). PNES epidemiology: What is known, what is new? *European Journal of Trauma & Dissociation*, 5(1), 100136. <https://doi.org/10.1016/j.ejtd.2019.100136>
 
@@ -494,78 +497,94 @@ Taken from [Aybek et al (2022)](https://drive.google.com/file/d/1YZF-9aHuYeLkgAE
 
 ## Risk Factors
 
-For a detailed account of risk and aetiological factors see Popkirov et al., (2019)[^16]
+For a detailed account of risk and aetiological factors in FDS see Popkirov et al., (2019)[^17]
 
-[^16]: Popkirov, S., Asadi-Pooya, A. A., Duncan, R., Gigineishvili, D., Hingray, C., Kanner, A. M., LaFrance Jr., W. C., Pretorius, C., & Reuber, M. (2019). The aetiology of psychogenic non-epileptic seizures: Risk factors and comorbidities. Epileptic Disorders, 21(6), 529-547. [10.1684/epd.2019.1107](https://onlinelibrary.wiley.com/doi/pdf/10.1684/epd.2019.1107)
+[^17]: Popkirov, S., Asadi-Pooya, A. A., Duncan, R., Gigineishvili, D., Hingray, C., Kanner, A. M., LaFrance Jr., W. C., Pretorius, C., & Reuber, M. (2019). The aetiology of psychogenic non-epileptic seizures: Risk factors and comorbidities. Epileptic Disorders, 21(6), 529-547. [10.1684/epd.2019.1107](https://onlinelibrary.wiley.com/doi/pdf/10.1684/epd.2019.1107)
 
-+-------------------------------+-------------------------------------------------------------------------+
-| Variable                      | Findings                                                                |
-+===============================+=========================================================================+
-| **Age**                       | -   Often 2nd to 4th decades of life.                                   |
-|                               |                                                                         |
-|                               | -   Young adults (15-19) most at risk[^17].                             |
-|                               |                                                                         |
-|                               | -   Distribution evens out for older adults (**UPDATE** **CITATION**).  |
-+-------------------------------+-------------------------------------------------------------------------+
-| **Gender**                    | -   Female preponderance = 60-80%[^18].                                 |
-|                               |                                                                         |
-|                               | -   Modal age of onset = 16 (**UPDATE** **CITATION**).                  |
-|                               |                                                                         |
-|                               | -   Disparities less evident in older cohorts[^19].                     |
-+-------------------------------+-------------------------------------------------------------------------+
-| **Epilepsy:**                 | -   High rate of co-morbidity[^20].                                     |
-+-------------------------------+-------------------------------------------------------------------------+
-| **Learning Disabilities**     | -   High rate of co-morbidity[^21]                                      |
-+-------------------------------+-------------------------------------------------------------------------+
-| **Demographics**              | -   Low rates of SES and employment[^22].                               |
-+-------------------------------+-------------------------------------------------------------------------+
-| **Psychiatric Co-morbidity:** | -   High rates of anxiety (29%), depression (48%), and PTSD (23%)[^23]. |
-|                               |                                                                         |
-|                               | -   Severity doesn't impact long-term outcome?[^24]                     |
-+-------------------------------+-------------------------------------------------------------------------+
-| **Health Co-morbidity:**      | -   Pain & Fatigue. **UPDATE** **CITATIONS**.                           |
-|                               |                                                                         |
-|                               | -   Sleep disturbance.                                                  |
-|                               |                                                                         |
-|                               | -   Migraine.                                                           |
-|                               |                                                                         |
-|                               | -   TBI.                                                                |
-|                               |                                                                         |
-|                               | -   Epilepsy Surgery                                                    |
-+-------------------------------+-------------------------------------------------------------------------+
++-------------------------------+----------------------------------------------------------------------------+
+|                               | Findings                                                                   |
++:==============================+============================================================================+
+| **Age**                       | -   Often 2nd to 4th decades of life.                                      |
+|                               |                                                                            |
+|                               | -   Young adults (15-19) most at risk[^18].                                |
+|                               |                                                                            |
+|                               | -   Age of onset:                                                          |
+|                               |                                                                            |
+|                               |     -   Mean = 39.6 years (SD 16.1)[^19]                                   |
+|                               |                                                                            |
+|                               |     -   Mode = 16                                                          |
++-------------------------------+----------------------------------------------------------------------------+
+| **Sex & Gender**              | -   Female preponderance = 60-80%[^20] (ratio 3:1).                        |
+|                               |                                                                            |
+|                               | -   More even gender distribution for younger and older age of onset[^21]. |
+|                               |                                                                            |
+|                               | -   Sexual and gender minorities[^22]                                      |
++-------------------------------+----------------------------------------------------------------------------+
+| **Demographics**              | -   Low rates of SES and employment[^23].                                  |
++-------------------------------+----------------------------------------------------------------------------+
+| **Epilepsy**                  | -   High rate of co-morbidity[^24].                                        |
++-------------------------------+----------------------------------------------------------------------------+
+| **Learning Disabilities**     | -   High rate of co-morbidity[^25]                                         |
++-------------------------------+----------------------------------------------------------------------------+
+| **Psychiatric Co-morbidity:** | -   High rates of anxiety (29%), depression (48%), and PTSD (23%)[^26].    |
+|                               |                                                                            |
+|                               | -   Severity doesn't impact long-term outcome?[^27]                        |
++-------------------------------+----------------------------------------------------------------------------+
+| **Health:**                   | -   Pain & Fatigue.                                                        |
+|                               |                                                                            |
+|                               | -   Sleep disturbance.                                                     |
+|                               |                                                                            |
+|                               | -   Migraine.                                                              |
+|                               |                                                                            |
+|                               | -   Traumatic Brain Injury[^28].                                           |
+|                               |                                                                            |
+|                               | -   Neurosurgery[^29].                                                     |
+|                               |                                                                            |
+|                               | -   Neurodiversity[^30].                                                   |
++-------------------------------+----------------------------------------------------------------------------+
 
-[^17]: Villagrán, A., Eldøen, G., Duncan, R., Aaberg, K. M., Hofoss, D., & Lossius, M. I. (2021). Incidence and prevalence of psychogenic nonepileptic seizures in a Norwegian county: A 10-year population-based study. Epilepsia, 0, 1-5. <https://doi.org/10.1111/epi.16949>
+[^18]: Villagrán, A., Eldøen, G., Duncan, R., Aaberg, K. M., Hofoss, D., & Lossius, M. I. (2021). Incidence and prevalence of psychogenic nonepileptic seizures in a Norwegian county: A 10-year population-based study. Epilepsia, 0, 1-5. <https://doi.org/10.1111/epi.16949>
 
-[^18]: IPDMA showed 72.6% woman out of 4905 cases with FND.
+[^19]: **FND:** Lidstone, S. C., Costa-Parke, M., Robinson, E. J., et al. (2022). Functional movement disorder gender, age and phenotype study: A systematic review and individual patient meta-analysis of 4905 cases. *Journal of Neurology, Neurosurgery, and Psychiatry*, 93, 609–616.
+
+[^20]: IPDMA showed 72.6% woman out of 4905 cases with FND.
 
     Lidstone, S. C., Costa-Parke, M., Robinson, E. J., et al. (2022). Functional movement disorder gender, age and phenotype study: A systematic review and individual patient meta-analysis of 4905 cases. *Journal of Neurology, Neurosurgery, and Psychiatry*, 93, 609–616.
 
-[^19]: Jungilligens, J., Michaelis, R., & Popkirov, S. (2021). Misdiagnosis of prolonged psychogenic non-epileptic seizures as status epilepticus: epidemiology and associated risks. Journal of Neurology, Neurosurgery, and Psychiatry, 0, 1–5. <https://doi.org/10.1136/jnnp-2021-326443>
+[^21]: Jungilligens, J., Michaelis, R., & Popkirov, S. (2021). Misdiagnosis of prolonged psychogenic non-epileptic seizures as status epilepticus: epidemiology and associated risks. Journal of Neurology, Neurosurgery, and Psychiatry, 0, 1–5. <https://doi.org/10.1136/jnnp-2021-326443>
 
-[^20]:
-    -   Epilepsy in patients with PNES across all studies was 22% (95% CI = 20-25%).
+[^22]: Lerario, M. P., Rosendale, N., Waugh, J. L., Turban, J., & Maschi, T. (2023). Functional Neurological Disorder Among Sexual and Gender Minority People. *Neurologic Clinics*. Advance online publication. <https://doi.org/10.1016/j.ncl.2023.02.010>
 
-    <!-- -->
+[^23]: \>50% Within the highest deprivation quintile.
 
-    -   PNES in patients with epilepsy was 12% (95% CI =10-14%”.
-
-    Kutlubaev, M. A., Xu, Y., Hackett, M. L., & Stone, J. (2018). Dual diagnosis of epilepsy and psychogenic nonepileptic seizures: Systematic review and meta-analysis of frequency, correlates, and outcomes. *Epilepsy & Behavior*, 89, 70-78.
-
-[^21]: Median rate of 9.4%.\
-    Rawlings, G. H., Novakova, B., Beail, N., & Reuber, M. (2021). What do we know about non-epileptic seizures in adults with intellectual disability: A narrative review. *Seizure*, *91*, 437-446.\
-
-[^22]:
-    -   \>50% Within the highest deprivation quintile.
-
-    -   \> 2/3 Unemployed at the point of seeking treatment for PNES.
+    \> 2/3 Unemployed at the point of seeking treatment for PNES.
 
     Goldstein, L. H., Robinson, E. J., Mellers, J. D. C., et al. (2020). Cognitive behavioural therapy for adults with dissociative seizures (CODES): A pragmatic, multicentre, randomised controlled trial. *Lancet Psychiatry, 7*(6), 491–505.
 
-[^23]: Goldstein, L. H., Robinson, E. J., Mellers, J. D. C., et al. (2020). Cognitive behavioural therapy for adults with dissociative seizures (CODES): A pragmatic, multicentre, randomised controlled trial. *Lancet Psychiatry, 7*(6), 491–505.
+[^24]: Epilepsy in patients with PNES across all studies was 22% (95% CI = 20-25%).
 
-[^24]: IPDMA (k = 8, N = 348 individuals). Depression and anxiety were present in 51.4% and 53.0% of FND-par patients, respectively. In individuals whose FND improved, there was no significant difference between those with versus without depression.
+    PNES in patients with epilepsy was 12% (95% CI =10-14%.
+
+    Kutlubaev, M. A., Xu, Y., Hackett, M. L., & Stone, J. (2018). Dual diagnosis of epilepsy and psychogenic nonepileptic seizures: Systematic review and meta-analysis of frequency, correlates, and outcomes. *Epilepsy & Behavior*, 89, 70-78.
+
+[^25]: Median rate of 9.4%.\
+    Rawlings, G. H., Novakova, B., Beail, N., & Reuber, M. (2021). What do we know about non-epileptic seizures in adults with intellectual disability: A narrative review. *Seizure*, *91*, 437-446.\
+
+[^26]: Goldstein, L. H., Robinson, E. J., Mellers, J. D. C., et al. (2020). Cognitive behavioural therapy for adults with dissociative seizures (CODES): A pragmatic, multicentre, randomised controlled trial. *Lancet Psychiatry, 7*(6), 491–505.
+
+[^27]: IPDMA (k = 8, N = 348 individuals). Depression and anxiety were present in 51.4% and 53.0% of FND-par patients, respectively. In individuals whose FND improved, there was no significant difference between those with versus without depression.
 
     Calma, A. D., Heffernan, J., Farrell, N., Gelauff, J., O'Connell, N., Perez, D. L., Perriman, D., Smyth, L., Stone, J., & Lueck, C. J. (2023). The impact of depression, anxiety and personality disorders on the outcome of patients with functional limb weakness – Individual patient data meta-analysis. *Journal of Psychosomatic Research, 175*, 111513.
+
+[^28]: Pooled fre- quency of 42% among 1,039 adults across 17 studies.\
+    Popkirov, S., Carson, A. J., & Stone, J. (2018). Scared or scarred: could 'dissociogenic' lesions predispose to nonepileptic seizures after head trauma? *Seizure*, 58, 127-132.
+
+[^29]: New onset of PNES can occur after epilepsy surgery in 2.4-8.8% of patients, with lower rates reported in larger studies (Ney et al., 1998; Glosser et al., 1999; Markoula et al., 2013; Asadi-Pooya et al., 2016). Brain surgery, other than epilepsy surgery, can precipitate PNES at similar rates (Reuber et al., 2002).
+
+[^30]: 40% of participants scored positive on the AQ-10.
+
+    40% of patients also scored positive for alexithymia.\
+    Cole, R. H., Elmalem, M. S., & Petrochilos, P. (2023). Prevalence of autistic traits in functional neurological disorder and relationship to alexithymia and psychiatric comorbidity. *Journal of the Neurological Sciences*, 446, 120585. <https://doi.org/10.1016/j.jns.2023.120585>
 
 ::: notes
 **Age:**
@@ -664,11 +683,11 @@ Our results show that the rate of childhood and adult stressful life events and 
 ::: {.column width="50%"}
 -   `Functional:` Impairment of function.
 
--   **Not** suggesting a behavioural component[^25].
+-   **Not** suggesting a behavioural component[^31].
 
 -   Functional-Organic terminology promotes dualism.
 
--   Can a person truly be non-organic?[^26]
+-   Can a person truly be non-organic?[^32]
 
 -   Software problem vs. hardware problem?
 :::
@@ -678,9 +697,9 @@ Our results show that the rate of childhood and adult stressful life events and 
 :::
 :::
 
-[^25]: Not related to the behavioural notion of 'functional analysis'
+[^31]: Not related to the behavioural notion of 'functional analysis'
 
-[^26]: See this video by [John Stone](https://www.youtube.com/watch?v=ersm5f_0LVI&t=21s%22) or the excellent [review paper](https://www.bmj.com/content/380/bmj.p221) on 'functional' vs 'organic'
+[^32]: See this video by [John Stone](https://www.youtube.com/watch?v=ersm5f_0LVI&t=21s%22) or the excellent [review paper](https://www.bmj.com/content/380/bmj.p221) on 'functional' vs 'organic'
 
 ::: notes
 -   (i.e., not relating to or derived from living matter).
@@ -690,7 +709,7 @@ Our results show that the rate of childhood and adult stressful life events and 
 
 ##  {auto-animate="true" auto-animate-duration="1.3"}
 
-Many terms have been used to describe a
+**Many terms have been used to describe a**
 
 ::: {style="font-size: 3em; color: red;"}
 Seizure.
@@ -698,7 +717,7 @@ Seizure.
 
 ##  {auto-animate="true" auto-animate-duration="1.3"}
 
-Many terms have been used to describe a
+**Many terms have been used to describe a**
 
 Non-epileptic attacks.
 
@@ -722,7 +741,7 @@ Seizure.
 
 ##  {auto-animate="true" auto-animate-duration="1.3"}
 
-Many terms have been used to describe a
+**Many terms have been used to describe a**
 
 Non-epileptic attacks.
 
@@ -744,12 +763,29 @@ Psychological seizures.
 Seizure.
 :::
 
+##  {auto-animate="true" auto-animate-duration="1.3"}
 
+**Many terms have been used to describe a**
 
+Non-epileptic attacks.
+
+Psychogenic seizures.
+
+Psychogenic non-epileptic seizures (PNES).
+
+Dissociative seizures.
+
+Functional seizures.
+
+Psychological seizures.
+
+::: {style="font-size: 3em; color: red;"}
+Seizure.
+:::
 
 ##  {auto-animate="true" auto-animate-duration="1.3"}
 
-Many terms have been used to describe a
+**Many terms have been used to describe a**
 
 Non-epileptic attacks.
 
@@ -761,7 +797,7 @@ Dissociative seizures.
 
 Functional seizures.
 
-[~~**Psychological**~~]{style="color:orange;"} seizures. 
+[~~**Psychological**~~]{style="color:orange;"} seizures.
 
 ::: {style="font-size: 3em; color: red;"}
 Seizure.
@@ -769,7 +805,7 @@ Seizure.
 
 ##  {auto-animate="true" auto-animate-duration="1.3"}
 
-Many terms have been used to describe a
+**Many terms have been used to describe a**
 
 Non-epileptic attacks.
 
@@ -779,6 +815,42 @@ Functional seizures.
 
 ::: {style="font-size: 3em; color: red;"}
 Seizure.
+:::
+
+##  {auto-animate="true" auto-animate-duration="1.3"}
+
+**Many terms have been used to describe a**
+
+[~~**Non-epileptic attacks.**~~]{style="color:orange;"}
+
+Dissociative seizures.
+
+Functional seizures.
+
+::: {style="font-size: 3em; color: red;"}
+Seizure.
+:::
+
+##  {auto-animate="true" auto-animate-duration="1.3"}
+
+**Many terms have been used to describe a**
+
+Dissociative seizures.
+
+Functional seizures.
+
+::: {style="font-size: 3em; color: red;"}
+Seizure.
+:::
+
+. . .
+
+ILAE[^33] have forwarded the position of adopting `Functional Dissociative Seizure`
+
+[^33]: International League Against Epilepsy
+
+::: notes
+The main reasons for changing are: 1) Almost everything in the universe is “nonepileptic”. 2) Patient organisations (FNDhope, FNDaction) want a different label. 3) International nosologies (DSM, ICD) use the terms “functional’ or “dissociative” seizures and it would be much better for all concerned if we could agree on a single term (although functional/dissociative seizures is clearly a compromise in this regard).
 :::
 
 ## Terminology {visibility="hidden"}
@@ -825,7 +897,7 @@ Many terms have been used:
 
 ::: columns
 ::: {.column width="50%"}
-Much debate regarding preferred term[^27].
+Much debate regarding preferred term[^34].
 
 Communication has a significant impact on:
 
@@ -845,7 +917,7 @@ Be led by the individual
 :::
 :::
 
-[^27]:
+[^34]:
     ::: {.column width="50%"}
     (see [Stone et al., 2003](https://www.sciencedirect.com/science/article/pii/S1059131103000554%22), [Barron., 2019](https://www.seizure-journal.com/article/S1059-1311(19)30337-1/pdf), FND Society., 2020, & [La France., 2010](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2906405/).
     :::
@@ -890,8 +962,6 @@ Taken from recent [Loewenberger, 2021](https://onlinelibrary.wiley.com/doi/full/
 
 -   Co-morbidities needs to be accounted for.
 
--   Treating underlying and potentially long-standing distress.
-
 ![](files/img/smoke-not-fire.jpg){fig-align="center" width="400"}
 
 ::: notes
@@ -908,21 +978,36 @@ Taken from recent [Loewenberger, 2021](https://onlinelibrary.wiley.com/doi/full/
 -   For some people: If you spend time focusing on the smoke (core FND) but don't work on the underlying distress maintaining then treatment might not be effective and patients may relapse.
 :::
 
-## The Evidence Base?
+## The Evidence Base
 
-+---------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Treatment                 | Key papers                                                                                                                                                                     |
-+===========================+================================================================================================================================================================================+
-| **Psychological Therapy** | -   Systematic reviews support psychotherapy for FND [(Gutkin et al., 2021)](https://jnnp.bmj.com/content/jnnp/92/1/36.full.pdf).                                              |
-|                           |                                                                                                                                                                                |
-|                           | -   47% patients achieve seizure freedom [(Carlson & Perry, 2017)](https://pubmed.ncbi.nlm.nih.gov/28063373/).                                                                 |
-|                           |                                                                                                                                                                                |
-|                           | -   Recent RCT however found no significant change for seizure frequency [(CODES, 2020)](https://www.thelancet.com/journals/lanpsy/article/PIIS2215-0366(20)30128-0/fulltext). |
-+---------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **Neuro-Stimulation**     | -   Small but emerging evidence base ([Gonsalvez et al., 2021](https://www.sciencedirect.com/science/article/pii/S2589986421000757) for a review).                             |
-+---------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **Medication**            |                                                                                                                                                                                |
-+---------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
++---------------------------+---------------------------------------------------------------------------------------------+
+| Treatment                 | Key papers                                                                                  |
++===========================+=============================================================================================+
+| **Psychological Therapy** | -   Seizure reduction and freedom[^35].                                                     |
+|                           |                                                                                             |
+|                           | -   Other psychological improvements (HR-QoL, anxiety, depression, dissociation etc.)[^36]. |
+|                           |                                                                                             |
+|                           | -   Only a small amount of high quality evidence.                                           |
+|                           |                                                                                             |
+|                           | -   CODES trial[^37] is the key publication however null findings for seizure frequency.    |
++---------------------------+---------------------------------------------------------------------------------------------+
+| **Neuro-Stimulation**     | -   Emerging evidence base but yet to be confirmed[^38].                                    |
++---------------------------+---------------------------------------------------------------------------------------------+
+| **Medication**            | -   Lack of supportive evidence[^39]                                                        |
++---------------------------+---------------------------------------------------------------------------------------------+
+
+[^35]: 47% patients achieve seizure freedom
+
+    Carlson, P., & Nicholson Perry, K. (2017). Psychological interventions for psychogenic non-epileptic seizures: A meta-analysis. *Seizure*, 45, 142-150. https://doi.org/10.1016/j.seizure.2016.12.007
+
+[^36]: Gaskell, C., Power, N., Novakova, B., Simmonds-Buckley, M., Reuber, M., Kellett, S., & Rawlings, G. H. (2023). A meta-analytic review of the effectiveness of psychological treatment of functional/dissociative seizures on non-seizure outcomes in adults. *Epilepsia*, 64(7), 1722-1738. https://doi.org/10.1111/epi.17626
+
+[^37]: Goldstein, L. H., Robinson, E. J., Mellers, J. D. C., Stone, J., Carson, A., Reuber, M., et al. (2020). Cognitive behavioural therapy for adults with dissociative seizures (CODES): A pragmatic, multicentre, randomised controlled trial. *The Lancet Psychiatry, 7*(6), 491-505. <https://doi.org/10.1016/S2215-0366(20)30128-0>
+
+[^38]: Gonsalvez, I., Spagnolo, P., Dworetzky, B., & Baslet, G. (2021). Neurostimulation for the treatment of functional neurological disorder: A systematic review. *Evidence-Based Review*, Advance online publication. <https://doi.org/10.1016/j.ebr.2021.100501>
+
+[^39]: This pilot randomized clinical trial for PNES revealed significant seizure reduction and improved comorbid symptoms and global functioning with CBT-ip for PNES without and with sertraline. There were no improvements in the sertraline-only or treatment-as-usual arms.\
+    LaFrance, W. C. Jr, Baird, G. L., Barry, J. J., Blum, A. S., Webb, A. F., Keitner, G. I., Machan, J. T., Miller, I., & Szaflarski, J. P.; for the NES Treatment Trial (NEST-T) Consortium. (2014). *JAMA Psychiatry, 71*(9), 997–1005. https://doi.org/10.1001/jamapsychiatry.2014.817.
 
 ::: notes
 -   Much of the evidence is on functional seizures.
@@ -944,23 +1029,19 @@ Taken from recent [Loewenberger, 2021](https://onlinelibrary.wiley.com/doi/full/
 
 -   High expectations.
 
-<!-- -->
-
--   Psychology referral for physical symptoms. People often really unsure. Some drop out. Some don't enter treatment.
-
--   Desperation. last hope. High expectations.
-
 ## What to Measure? {background-color="white"}
 
 -   Not just about the core FND symptoms.
 
--   7+ outcome measures used per study (unpublished study).[^28]
+-   7+ outcome measures used per study (unpublished study).[^40]
 
 -   Core outcome battery and specific tools still lacking (for now).
 
-[^28]: Results being prepared for publication.
+[^40]: Results being prepared for publication.
 
-Taken from [Nicholson (2020)](https://neuro.psychiatryonline.org/doi/abs/10.1176/appi.neuropsych.19060128)
+Taken from Nicholson (2020)[^41]
+
+[^41]: Nicholson, T. R., Carson, A., Edwards, M. J., Goldstein, L. H., Hallett, M., Mildon, B., Nielsen, G., Nicholson, C., Perez, D. L., Pick, S., Stone, J., & et al. (2020). Outcome Measures for Functional Neurological Disorder: A Review of the Theoretical Complexities. *Neuropsychology Review, 32*(1), 33-42. <https://doi.org/10.1176/appi.neuropsych.19060128>
 
 ![](files/img/outcome.domains.jpg){alt="Taken from Nicholson (2020)" fig-align="center" width="600"}
 
@@ -988,24 +1069,28 @@ In all conditions treatment remains effective (approx *d* = .5)
 
 ## Resources
 
-+------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Charities              | [FND Hope](https://www.fndhope.org)                                                                                                                                                                                                                                                                                                                                    |
-+------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Professional Groups    | [FND Society](https://www.https://www.fndsociety.org/)                                                                                                                                                                                                                                                                                                                 |
-+------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Resources (Patients)   | [In Our Words](https://www.amazon.co.uk/Our-Words-Personal-Non-Epileptic-Brainstorms/dp/0190622776)                                                                                                                                                                                                                                                                    |
-|                        |                                                                                                                                                                                                                                                                                                                                                                        |
-|                        | [In Our Experience](https://www.amazon.co.uk/Non-Epileptic-Seizures-Our-Experience-Professionals/dp/0190927755)                                                                                                                                                                                                                                                        |
-|                        |                                                                                                                                                                                                                                                                                                                                                                        |
-|                        | [Neuro Symptoms](http://neurosymptoms.org/)                                                                                                                                                                                                                                                                                                                            |
-|                        |                                                                                                                                                                                                                                                                                                                                                                        |
-|                        | Northern Care Alliance                                                                                                                                                                                                                                                                                                                                                 |
-|                        |                                                                                                                                                                                                                                                                                                                                                                        |
-|                        | North Staffs Wellbeing Portal                                                                                                                                                                                                                                                                                                                                          |
-+------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Resources (Clinicians) | [Handbook of Clinical Neurology](https://www.elsevier.com/books/functional-neurologic-disorders/hallett/978-0-12-801772-2?country=GB&format=print&utm_source=google_ads&utm_medium=paid_search&utm_campaign=ukshopping&gclid=EAIaIQobChMIt_yujOGA-wIVQ7DtCh0MJA2zEAQYASABEgIV5vD_BwE&gclsrc=aw.ds)                                                                     |
-|                        |                                                                                                                                                                                                                                                                                                                                                                        |
-|                        | [Functional Movement Disorder](https://www.amazon.co.uk/Functional-Movement-Disorder-Interdisciplinary-Case-Based/dp/3030864944/ref=asc_df_3030864944/?tag=googshopuk-21&linkCode=df0&hvadid=570407791907&hvpos=&hvnetw=g&hvrand=10263867168465980964&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9046662&hvtargid=pla-1433280131266&psc=1&th=1&psc=1) |
-+------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
++----------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Charities            | [FND Hope](https://www.fndhope.org)                                                                                                                                                                                                                                                                                                                                    |
+|                      |                                                                                                                                                                                                                                                                                                                                                                        |
+|                      | [FND Action](https://www.fndaction.org.uk)                                                                                                                                                                                                                                                                                                                             |
++----------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Professional Groups  | [FND Society](https://www.https://www.fndsociety.org/)                                                                                                                                                                                                                                                                                                                 |
++----------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Patient Resources    | [In Our Words](https://www.amazon.co.uk/Our-Words-Personal-Non-Epileptic-Brainstorms/dp/0190622776) (a collection of patients accounts of FND)                                                                                                                                                                                                                         |
+|                      |                                                                                                                                                                                                                                                                                                                                                                        |
+|                      | [FND Stories](https://www.amazon.co.uk/FND-Stories-Professional-Experiences-Neurological/dp/1839973617) (a collection of patients and professional accounts of FND)                                                                                                                                                                                                    |
+|                      |                                                                                                                                                                                                                                                                                                                                                                        |
+|                      | [Neuro Symptoms](http://neurosymptoms.org/)                                                                                                                                                                                                                                                                                                                            |
+|                      |                                                                                                                                                                                                                                                                                                                                                                        |
+|                      | [Northern Care Alliance](http://www.manchesterneurosciences.com/departments/neuropsychology/nead)                                                                                                                                                                                                                                                                      |
+|                      |                                                                                                                                                                                                                                                                                                                                                                        |
+|                      | [North Staffordshire Combined Well-being Portal](https://combinedwellbeing.org.uk/topic/functional-neurological-disorder/)                                                                                                                                                                                                                                             |
++----------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Clinicians Resources | [In Our Experience](https://www.amazon.co.uk/Non-Epileptic-Seizures-Our-Experience-Professionals/dp/0190927755) (a collection of professional and professional accounts of FND)                                                                                                                                                                                        |
+|                      |                                                                                                                                                                                                                                                                                                                                                                        |
+|                      | [Handbook of Clinical Neurology](https://www.elsevier.com/books/functional-neurologic-disorders/hallett/978-0-12-801772-2?country=GB&format=print&utm_source=google_ads&utm_medium=paid_search&utm_campaign=ukshopping&gclid=EAIaIQobChMIt_yujOGA-wIVQ7DtCh0MJA2zEAQYASABEgIV5vD_BwE&gclsrc=aw.ds)                                                                     |
+|                      |                                                                                                                                                                                                                                                                                                                                                                        |
+|                      | [Functional Movement Disorder](https://www.amazon.co.uk/Functional-Movement-Disorder-Interdisciplinary-Case-Based/dp/3030864944/ref=asc_df_3030864944/?tag=googshopuk-21&linkCode=df0&hvadid=570407791907&hvpos=&hvnetw=g&hvrand=10263867168465980964&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9046662&hvtargid=pla-1433280131266&psc=1&th=1&psc=1) |
++----------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 # Thanks for Listening {background-color="#01364C" style="font-size: 35px; text-align: left;"}
