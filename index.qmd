@@ -14,7 +14,6 @@ format:
       #   <meta name="twitter:creator" content="@chrisgaskell92/>
       #   <meta nam§e="twitter:site" content="@chrisgaskell92"/>
     smaller: false
-    twitter-card: true
     card-style: summary_large_image
     title: "An Introduction to Working with Functional Dissociative Seizures"
     contributor: "Dr. Chris Gaskell"
