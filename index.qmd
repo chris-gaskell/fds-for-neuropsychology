@@ -98,8 +98,6 @@ b.  Just start by saying that I am super excited to be here. Super interested in
 
 -   The `Evidence` base {{< fa chart-simple >}}
 
--   Approaches to `Measurement` {{< fa ruler >}}
-
 ::: notes
 -   I am going to talk to you about FDS, focusing more on the general background, language, and the evidence base; and then in about 25 minutes my colleague Antonia is going to talk to you about delivering treatment.
 
@@ -119,10 +117,9 @@ b.  Just start by saying that I am super excited to be here. Super interested in
 ::: notes
 -   Lots of other terms to describe FDS (to discuss later).
 -   Epilepsy but without the same underlying electrical processes. Different brain structural changes.
--   DSM-V-TR: Conversion disorder/Functional neurological symptom disorder.
 -   Discrimination is essential for providing the most appropriate treatment.
 -   Seizures are one manifestation, often within complex broader FND constellations.
--   FND is the umbrella term. If we see a diagnosis indicative of seizures then don't forget the myriad of other symptoms which may be impacting the person's ability to function.
+-   FND is the umbrella term however there are often other symptoms that accompany it.
 :::
 
 ------------------------------------------------------------------------
@@ -137,27 +134,8 @@ Taken from a [survey of 1048 individuals living with FND]{.aside}[^1]
 
 ::: notes
 -   This visualisation is taken from a large survey of people living with FND.
--   Cognitive and sensory symptom are very high.
--   93% had fatigue!
-:::
-
-------------------------------------------------------------------------
-
-## Functional Seizures {visibility="hidden"}
-
--   One manifestation/constellation of FND.
-
--   Within DSM-V classified as conversion disorder/functional neurological symptom disorder.
-
--   **"Functional"** referring to an impairment of normal functioning.
-
--   Disruption of usually integrated functions of consciousness, memory, identity, or perception (Goldstein et al., 2000).
-
--   Temporary loss of **control and/or awareness**.
-
-::: notes
--   The term functional has been used to describe symptoms which impacts upon neurological function but which do not have the same underlying pathological abnormality.
--   Dissociation: amnesia, fugue, dissociative id disorder, depersonalisation disorder)
+-   Cognitive and sensory symptom are very high in FND, and as 50% of people experience functional seizures you would imagine that a large proportion of people with FDS experience this too.
+-   93% fatigue; 81% memory problem; 70% headache; to name but a few.
 :::
 
 ## Who Makes The Diagnosis?
@@ -189,9 +167,9 @@ Any professional who potentially comes into contact with patients has a potentia
 ::: notes
 -   In order to provide understanding and appropriate treatments we need accurate and prompt diagnosis. The importance of sensitively delivered diagnosis can't be overstated.
 
--   Establishing the diagnosis is challenging, particularly because of the need to carefully rule out epilepsy. it can require lots of assessments.
+-   Diagnosis is challenging because of the need to carefully rule out epilepsy. And to be sure it isn't it can require lots of assessments.
 
--   More assessments = more time. As the assessments are far from perfect it is common for FDS to be first misdiagnosed as epilepsy.
+-   More assessments = more time. As the assessments are far from perfect it's common for FDS to be first misdiagnosed as epilepsy.
 
 -   In order to increase the chance of an accurate diagnosis, it is important that the person is seen by someone who is particularly familiar seizure conditions.
 
@@ -209,7 +187,7 @@ Taken from Finkelstein et al (2021)[^2]
 ![](files/img/Stone-NEAD-Table.png){width="1200" height="1200"}
 
 ::: notes
--   Are are not diagnosticians but I think it can be helpful, and interesting, to know some of the semiological features that are more reliable for discriminating between conditions.
+-   Are are not diagnosticians but I think it can be helpful to know some of the semiological features that are more reliable for discriminating between conditions.
 :::
 
 ## Diagnostic Challenges
@@ -281,9 +259,9 @@ Just to reinforce some of the dilemmas around diagnosis.
 
 ::: notes
 -   It's difficult to accurately quantify prevalence rates.
--   Accurate data on the epidemiology of FDS are limited, with no UK population-level studies.
-    -   May feel more common from working in neuropsychology; however it is still a rare condition.
--   Estimated that FDS accounts for:
+-   Few epidemiology studies and non from the UK (population-level studies).
+-   Rare condition (although may not feel it).
+-   Accounts for:
     -   Approx 10% of people attending to a first seizure neurology clinic.
     -   Approx 10% of seizures that present to A&E.
     -   Approx a quarter of patients referred to epilepsy centers with intractable epilepsy.
@@ -311,16 +289,14 @@ For a detailed account of risk and aetiological factors in FDS see Popkirov et a
 | **Sex & Gender**          | -   Female preponderance = 60-80%[^15] (ratio 3:1).                        |
 |                           |                                                                            |
 |                           | -   More even gender distribution for younger and older age of onset[^16]. |
-|                           |                                                                            |
-|                           | -   Sexual and gender minorities[^17].                                     |
 +---------------------------+----------------------------------------------------------------------------+
-| **Demographics**          | -   Low SES and low rates of employment[^18].                              |
+| **Demographics**          | -   Low SES and low rates of employment[^17].                              |
 +---------------------------+----------------------------------------------------------------------------+
-| **Epilepsy**              | -   High co-morbidity rates[^19].                                          |
+| **Epilepsy**              | -   High co-morbidity rates[^18].                                          |
 +---------------------------+----------------------------------------------------------------------------+
-| **Learning Disabilities** | -   Higher rates of FDS in individuals with an LD[^20].                    |
+| **Learning Disabilities** | -   Higher rates of FDS in individuals with an LD[^19].                    |
 +---------------------------+----------------------------------------------------------------------------+
-| **Mental Health**         | -   High rates of anxiety (29%), depression (48%), & PTSD (23%)[^21].      |
+| **Mental Health**         | -   High rates of anxiety (29%), depression (48%), & PTSD (23%)[^20].      |
 +---------------------------+----------------------------------------------------------------------------+
 | **Health:**               | -   Pain & Fatigue.                                                        |
 |                           |                                                                            |
@@ -328,11 +304,11 @@ For a detailed account of risk and aetiological factors in FDS see Popkirov et a
 |                           |                                                                            |
 |                           | -   Migraine.                                                              |
 |                           |                                                                            |
-|                           | -   Traumatic Brain Injury[^22].                                           |
+|                           | -   Traumatic Brain Injury[^21].                                           |
 |                           |                                                                            |
-|                           | -   Neurosurgery[^23].                                                     |
+|                           | -   Neurosurgery[^22].                                                     |
 |                           |                                                                            |
-|                           | -   Neurodiversity[^24].                                                   |
+|                           | -   Neurodiversity[^23].                                                   |
 +---------------------------+----------------------------------------------------------------------------+
 
 [^13]: Villagrán, A., Eldøen, G., Duncan, R., Aaberg, K. M., Hofoss, D., & Lossius, M. I. (2021). Incidence and prevalence of psychogenic nonepileptic seizures in a Norwegian county: A 10-year population-based study. Epilepsia, 0, 1-5. <https://doi.org/10.1111/epi.16949>
@@ -345,31 +321,29 @@ For a detailed account of risk and aetiological factors in FDS see Popkirov et a
 
 [^16]: Jungilligens, J., Michaelis, R., & Popkirov, S. (2021). Misdiagnosis of prolonged psychogenic non-epileptic seizures as status epilepticus: epidemiology and associated risks. Journal of Neurology, Neurosurgery, and Psychiatry, 0, 1–5. <https://doi.org/10.1136/jnnp-2021-326443>
 
-[^17]: Lerario, M. P., Rosendale, N., Waugh, J. L., Turban, J., & Maschi, T. (2023). Functional Neurological Disorder Among Sexual and Gender Minority People. *Neurologic Clinics*. Advance online publication. <https://doi.org/10.1016/j.ncl.2023.02.010>
-
-[^18]: \>50% Within the highest deprivation quintile.
+[^17]: \>50% Within the highest deprivation quintile.
 
     \> 2/3 Unemployed at the point of seeking treatment for PNES.
 
     Goldstein, L. H., Robinson, E. J., Mellers, J. D. C., et al. (2020). Cognitive behavioural therapy for adults with dissociative seizures (CODES): A pragmatic, multicentre, randomised controlled trial. *Lancet Psychiatry, 7*(6), 491–505.
 
-[^19]: Epilepsy in patients with PNES across all studies was 22% (95% CI = 20-25%).
+[^18]: Epilepsy in patients with PNES across all studies was 22% (95% CI = 20-25%).
 
     PNES in patients with epilepsy was 12% (95% CI =10-14%.
 
     Kutlubaev, M. A., Xu, Y., Hackett, M. L., & Stone, J. (2018). Dual diagnosis of epilepsy and psychogenic nonepileptic seizures: Systematic review and meta-analysis of frequency, correlates, and outcomes. *Epilepsy & Behavior*, 89, 70-78.
 
-[^20]: Median rate of 9.4%.\
+[^19]: Median rate of 9.4%.\
     Rawlings, G. H., Novakova, B., Beail, N., & Reuber, M. (2021). What do we know about non-epileptic seizures in adults with intellectual disability: A narrative review. *Seizure*, *91*, 437-446.\
 
-[^21]: Goldstein, L. H., Robinson, E. J., Mellers, J. D. C., et al. (2020). Cognitive behavioural therapy for adults with dissociative seizures (CODES): A pragmatic, multicentre, randomised controlled trial. *Lancet Psychiatry, 7*(6), 491–505.
+[^20]: Goldstein, L. H., Robinson, E. J., Mellers, J. D. C., et al. (2020). Cognitive behavioural therapy for adults with dissociative seizures (CODES): A pragmatic, multicentre, randomised controlled trial. *Lancet Psychiatry, 7*(6), 491–505.
 
-[^22]: Pooled fre- quency of 42% among 1,039 adults across 17 studies.\
+[^21]: Pooled fre- quency of 42% among 1,039 adults across 17 studies.\
     Popkirov, S., Carson, A. J., & Stone, J. (2018). Scared or scarred: could 'dissociogenic' lesions predispose to nonepileptic seizures after head trauma? *Seizure*, 58, 127-132.
 
-[^23]: New onset of PNES can occur after epilepsy surgery in 2.4-8.8% of patients, with lower rates reported in larger studies (Ney et al., 1998; Glosser et al., 1999; Markoula et al., 2013; Asadi-Pooya et al., 2016). Brain surgery, other than epilepsy surgery, can precipitate PNES at similar rates (Reuber et al., 2002).
+[^22]: New onset of PNES can occur after epilepsy surgery in 2.4-8.8% of patients, with lower rates reported in larger studies (Ney et al., 1998; Glosser et al., 1999; Markoula et al., 2013; Asadi-Pooya et al., 2016). Brain surgery, other than epilepsy surgery, can precipitate PNES at similar rates (Reuber et al., 2002).
 
-[^24]: 40% of participants scored positive on the AQ-10.
+[^23]: 40% of participants scored positive on the AQ-10.
 
     40% of patients also scored positive for alexithymia.\
     Cole, R. H., Elmalem, M. S., & Petrochilos, P. (2023). Prevalence of autistic traits in functional neurological disorder and relationship to alexithymia and psychiatric comorbidity. *Journal of the Neurological Sciences*, 446, 120585. <https://doi.org/10.1016/j.jns.2023.120585>
@@ -383,15 +357,15 @@ In short, FDS is more common in women around the ages of 20 to 40, although moda
 
 -   LD.
 
--   Sexual and gender minorities.
-
 -   People of low SES.
 
 -   Epilepsy, brain injury, migraine.
 
 -   Physical and mental health comorbidities.
 
--   And trauma.
+-   And trauma (38%).
+
+Although Rates are high, many people with FND do NOT report having experienced any trauma.
 
 **Age:**
 
@@ -430,57 +404,6 @@ In short, FDS is more common in women around the ages of 20 to 40, although moda
 -   **TBI:** Rates vary a lot. Pooled frequency of about 42%
 :::
 
-## Trauma {visibility="hidden"}
-
--   **Traumatic event:** incident causing physical, emotional or psychological harm.
-
--   Single event or repeated incidents (i.e., complex).
-
--   Recent or a long time ago.
-
--   Highly common in FDS (compared to case controls, [Ludwig et al., 2018](http://dx.doi.org/10.1016/%20S2215-0366(18)30051-8)).
-
--   Does not consistently explain aetiology or onset.
-
--   Not always helpful to ask.
-
--   Be careful with the notions of conversion. It may be relevant for some [but not all]{.underline}.
-
-::: notes
--   Trauma does not explain why one patient gets a seizure and another paralysis
--   Nor does an abusive experience 10 years ago explain why the symptom starts on the 7th Sept 2017
--   Sometimes more helpful to ask about the emotional reaction to sudden onset physical symptoms.
--   The magnitude of a trauma is less to do with how severe the event is but how severe it is percieved and processed by the individual.
--   Trauma is something that gets brought up a lot when discussing functional seizures. Trauma or a traumatic event is an event or incident which includes some form of harm either physical emotional or psychological.
--   This might be a single isolated incident (example car crash). Or it might be a more cumulative effect of lots of little things that happen over time (Example bullying).
--   Lots of people with functional symptoms have experienced some form of trauma, however there are also a subset of patients who have not.
--   When there is no trauma present, it can leave conditions feeling a little confused as to why the functional symptoms have developed. For some people, there may have been some form of trauma but which can no longer be remembered or is not recognised as being traumatic. For example so I might have had a close family bereavement, and the individual with functional symptoms may feel that this was unrelated to the functional symptoms, however it might be that overtime this is related.
-:::
-
-## Rates of Stressful Life Events {visibility="hidden"}
-
-Taken from recent [Ludwig et al 2018](https://www.epanlab.nl/wp-content/uploads/2020/04/Ludwig-et-al.-2018.pdf).
-
-::: columns
-::: {.column width="50%"}
-![](files/img/Ludwig-paper.jpeg)
-:::
-
-::: {.column width="50%"}
-![](files/img/Ludwig.table.png){alt="Preference ratings are reverse scored, so high scoring items are least preferred terms."}
-:::
-:::
-
-::: notes
-Important Point
-
-Although Rates are high, many people with FND do NOT report having experienced any trauma.
-
-Our results show that the rate of childhood and adult stressful life events and maltreatment, particularly emotional neglect, is increased in patients with conversion (functional neurological) disorder compared with controls. The association was stronger in cases of childhood onset and when we compared with healthy controls as opposed to disease controls. However, a proportion of cases report no stressors. We concluded that stressors are relevant to the cause and development of conversion (functional neurological) disorder and therefore a potential treatment target, but exposure to such stressors is not an essential diagnostic feature. Our findings support the changes to DSM-5 and have implications for ICD-11.
-
-"13 studies that specifically ascertained that the participants had not had either severe life events or any subtype of maltreatment all found a proportion of patients with functional neurological disorder reporting no stressor."
-:::
-
 # Terminology and Language {background-color="#01364C" style="font-size: 35px; text-align: left;"}
 
 ## Functional vs. Organic
@@ -489,11 +412,11 @@ Our results show that the rate of childhood and adult stressful life events and 
 ::: {.column width="50%"}
 -   `Functional:` Impairment of function.
 
--   **Not** suggesting a behavioural component[^25].
+-   **Not** suggesting a behavioural component[^24].
 
 -   Functional-Organic terminology promotes dualism.
 
--   Can a person truly be non-organic?[^26]
+-   Can a person truly be non-organic?[^25]
 :::
 
 ::: {.column width="50%"}
@@ -501,18 +424,18 @@ Our results show that the rate of childhood and adult stressful life events and 
 :::
 :::
 
-[^25]: Not related to the behavioural notion of 'functional analysis'
+[^24]: Not related to the behavioural notion of 'functional analysis'
 
-[^26]: See this video by [John Stone](https://www.youtube.com/watch?v=ersm5f_0LVI&t=21s%22) or the excellent [review paper](https://www.bmj.com/content/380/bmj.p221) on 'functional' vs 'organic'
+[^25]: See this video by [John Stone](https://www.youtube.com/watch?v=ersm5f_0LVI&t=21s%22) or the excellent [review paper](https://www.bmj.com/content/380/bmj.p221) on 'functional' vs 'organic'
 
 ::: notes
+-   Functional, does not mean behavioural; it is an impairment of function.
+
 -   The 'Functional vs. Organic' dichotomy is quite a dominant discourse, particularly in neuropsychology, but it's important to remind ourselves of the limitations of this distinction.
 
--   Functional vs organic fits the existing healthcare system quite well; but that is largely because our healthcare is heavily built on mind-body dualism; just look at the distinction between physical and mental health care. FND and FDS are conditions that illustrate very well how this distinction is certinaly not as clear cut as people think.
+-   Functional vs organic fits the existing healthcare system quite well; but that is largely because our healthcare is heavily built on mind-body dualism; just look at the distinction between physical and mental health care. FND and FDS are conditions that illustrate very well how this distinction is certainly not as clear cut as people think.
 
 -   What organic symptoms are not in some way mediated by psychological processes? and if someone has limb weakness for many years, then could motor patterns not go on to influence brain structure through plasticity?
-
--   Functional, does not mean behavioural; it is an impairment of function.
 
 -   Jon Stone makes an interesting point about the term organic being completely flawed, in an interesting paper called A tale of two turnips. I cannot do it justice, but maybe consider how anything in our very consciousness not be organic. Consciousness must arise from organic matter at some level. Structural.
 :::
@@ -663,12 +586,14 @@ Seizure.
 
 . . .
 
-ILAE[^27] have forwarded the position of adopting `Functional Dissociative Seizure`
+ILAE[^26] have forwarded the position of adopting `Functional Dissociative Seizure`
 
-[^27]: International League Against Epilepsy
+[^26]: International League Against Epilepsy
 
 ::: notes
-The main reasons for changing are: 1) Almost everything in the universe is “nonepileptic”. 2) Patient organisations (FNDhope, FNDaction) want a different label. 3) International nosologies (DSM, ICD) use the terms “functional’ or “dissociative” seizures and it would be much better for all concerned if we could agree on a single term (although functional/dissociative seizures is clearly a compromise in this regard).
+1.  Almost everything in the universe is “nonepileptic”.
+2.  Patient organisations (FNDhope, FNDaction) want a different label.
+3.  International nosologies (DSM, ICD) use the terms “functional’ or “dissociative” seizures and it would be much better for all concerned if we could agree on a single term (although functional/dissociative seizures is clearly a compromise in this regard).
 :::
 
 ## Labels Matter
@@ -710,57 +635,42 @@ The important point is that the words we use matter, and ultimately we can make 
 +===========================+=============================================================================================+
 | **Psychological Therapy** | -   Only a small amount of high quality evidence.                                           |
 |                           |                                                                                             |
-|                           | -   Seizure reduction and freedom[^28],[^29].                                               |
+|                           | -   Seizure reduction and freedom[^27],[^28].                                               |
 |                           |                                                                                             |
-|                           | -   CODES - landmark trial[^30]. Null findings for seizure frequency.                       |
+|                           | -   CODES - landmark trial[^29]. Null findings for seizure frequency.                       |
 |                           |                                                                                             |
-|                           | -   Other psychological improvements (HR-QoL, anxiety, depression, dissociation etc.)[^31]. |
+|                           | -   Other psychological improvements (HR-QoL, anxiety, depression, dissociation etc.)[^30]. |
 +---------------------------+---------------------------------------------------------------------------------------------+
-| **Neuro-Stimulation**     | -   Emerging evidence base but yet to be confirmed[^32].                                    |
+| **Neuro-Stimulation**     | -   Emerging evidence base but yet to be confirmed[^31].                                    |
 +---------------------------+---------------------------------------------------------------------------------------------+
-| **Medication**            | -   Lack of supportive evidence[^33]                                                        |
+| **Medication**            | -   Lack of supportive evidence[^32]                                                        |
 +---------------------------+---------------------------------------------------------------------------------------------+
 
-[^28]: 47% patients achieve seizure freedom
+[^27]: 47% patients achieve seizure freedom
 
     Carlson, P., & Nicholson Perry, K. (2017). Psychological interventions for psychogenic non-epileptic seizures: A meta-analysis. *Seizure*, 45, 142-150. https://doi.org/10.1016/j.seizure.2016.12.007
 
-[^29]: Seizure freedom at tge end of treatment was 40 % and 36% at follow-up. Seizure improvement rates (≥50% reduction) on the other hand was were 66 % and 75 %.
+[^28]: Seizure freedom at tge end of treatment was 40 % and 36% at follow-up. Seizure improvement rates (≥50% reduction) on the other hand was were 66 % and 75 %.
 
     Gaskell, C., Power, N., Novakova, B., Simmonds-Buckley, M., Kerr, W. T., Reuber, M., Kellett, S., & Rawlings, G. H. (2024). A meta-analytic evaluation of the effectiveness and durability of psychotherapy for adults presenting with functional dissociative seizures. *Seizure: European Journal of Epilepsy, 119*, 98-109. <https://doi.org/10.1016/j.seizure.2024.05.016>
 
-[^30]: Goldstein, L. H., Robinson, E. J., Mellers, J. D. C., Stone, J., Carson, A., Reuber, M., et al. (2020). Cognitive behavioural therapy for adults with dissociative seizures (CODES): A pragmatic, multicentre, randomised controlled trial. *The Lancet Psychiatry, 7*(6), 491-505. <https://doi.org/10.1016/S2215-0366(20)30128-0>
+[^29]: Goldstein, L. H., Robinson, E. J., Mellers, J. D. C., Stone, J., Carson, A., Reuber, M., et al. (2020). Cognitive behavioural therapy for adults with dissociative seizures (CODES): A pragmatic, multicentre, randomised controlled trial. *The Lancet Psychiatry, 7*(6), 491-505. <https://doi.org/10.1016/S2215-0366(20)30128-0>
 
-[^31]: Gaskell, C., Power, N., Novakova, B., Simmonds-Buckley, M., Reuber, M., Kellett, S., & Rawlings, G. H. (2023). A meta-analytic review of the effectiveness of psychological treatment of functional/dissociative seizures on non-seizure outcomes in adults. *Epilepsia*, 64(7), 1722-1738. https://doi.org/10.1111/epi.17626
+[^30]: Gaskell, C., Power, N., Novakova, B., Simmonds-Buckley, M., Reuber, M., Kellett, S., & Rawlings, G. H. (2023). A meta-analytic review of the effectiveness of psychological treatment of functional/dissociative seizures on non-seizure outcomes in adults. *Epilepsia*, 64(7), 1722-1738. https://doi.org/10.1111/epi.17626
 
-[^32]: Gonsalvez, I., Spagnolo, P., Dworetzky, B., & Baslet, G. (2021). Neurostimulation for the treatment of functional neurological disorder: A systematic review. *Evidence-Based Review*, Advance online publication. <https://doi.org/10.1016/j.ebr.2021.100501>
+[^31]: Gonsalvez, I., Spagnolo, P., Dworetzky, B., & Baslet, G. (2021). Neurostimulation for the treatment of functional neurological disorder: A systematic review. *Evidence-Based Review*, Advance online publication. <https://doi.org/10.1016/j.ebr.2021.100501>
 
-[^33]: This pilot randomized clinical trial for PNES revealed significant seizure reduction and improved comorbid symptoms and global functioning with CBT-ip for PNES without and with sertraline. There were no improvements in the sertraline-only or treatment-as-usual arms.\
+[^32]: This pilot randomized clinical trial for PNES revealed significant seizure reduction and improved comorbid symptoms and global functioning with CBT-ip for PNES without and with sertraline. There were no improvements in the sertraline-only or treatment-as-usual arms.\
     LaFrance, W. C. Jr, Baird, G. L., Barry, J. J., Blum, A. S., Webb, A. F., Keitner, G. I., Machan, J. T., Miller, I., & Szaflarski, J. P.; for the NES Treatment Trial (NEST-T) Consortium. (2014). *JAMA Psychiatry, 71*(9), 997–1005. https://doi.org/10.1001/jamapsychiatry.2014.817.
 
 ::: notes
 -   Lots of evidence for treatments functional seizures; although much of it is quite low quality, and mostly focused upon behavioral and CBT interventions.
 -   Most focuses on seizure reduction, which is understandable because that is usually what people want to change when they arrive for treatment.
 -   The problem however is that the evidence for psychological treatments for seizures frequency is mixed. Practice-based studies tend to show very impressive rates of seizure freedom (roughly 1 in 2) however the one high quality RCT for FDS found no difference to standard care.
--   So some been argued that psychological treatment may be less influential than we would hope for seizure frequency; however there are a lot of methodological problems in outcome research for FDS, least of which is how to accurately measure and count seizures, so it is quite hard to conclude anything definitively. That said, RCTs have found far more impressive findings for other outcomes, such as mental health, functioning, and quality of life, to name just a few.
+-   So some been argued that psychological treatment may be less influential than we would hope for seizure frequency; however there are a lot of methodological problems in outcome research for FDS, least of which is how to accurately measure and count seizures, so it is quite hard to conclude anything definitively.
+-   That said, RCTs have found far more impressive findings for other outcomes, such as mental health, functioning, and quality of life, to name just a few.
 -   Not enough time to go into detail, but there isn't evidence supportive of medication, and there is some emerging evidence for neuro-modulation but it's far too early to say how effective or suitable they are.
 :::
-
-## Acceptability
-
--   Some patients ambivalent to treatment.
-
--   Doesn't always fit with patient view of difficulties.
-
--   Comes following a long journey.
-
--   High expectations.
-
-## What and How to Measure? {background-color="white"}
-
-. . .
-
-Come see the workshop on measurement approaches in FND.
 
 ## Resources
 
