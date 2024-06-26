@@ -400,11 +400,9 @@ Although Rates are high, many people with FND do NOT report having experienced a
 
 ::: columns
 ::: {.column width="50%"}
--   `Functional:` Impairment of function.
+-   `Functional:` Impairment of function - **Not** suggesting a behavioural component[^23].
 
--   **Not** suggesting a behavioural component[^23].
-
--   Functional-Organic terminology promotes dualism.
+-   Does functional-Organic terminology promotes dualism?
 
 -   Can anything truly be non-organic?[^24]
 :::
@@ -594,7 +592,7 @@ ILAE[^25] have forwarded the position of adopting `Functional Dissociative Seizu
 The important point is that the words we use matter, and ultimately we can make suggestions to patients about which to use, but we should be guided by there preferences.
 :::
 
-# Treatment: Evidence & Measurement {background-color="#01364C" style="font-size: 35px; text-align: left;"}
+# Evidence For Treatment {background-color="#01364C" style="font-size: 35px; text-align: left;"}
 
 ## Role of Psychology
 
@@ -620,21 +618,21 @@ The important point is that the words we use matter, and ultimately we can make 
 
 ## The Evidence Base
 
-+---------------------------+---------------------------------------------------------------------------------------------+
-| Treatment                 | Key papers                                                                                  |
-+===========================+=============================================================================================+
-| **Psychological Therapy** | -   Only a small amount of high quality evidence.                                           |
-|                           |                                                                                             |
-|                           | -   Seizure reduction and freedom[^26],[^27].                                               |
-|                           |                                                                                             |
-|                           | -   CODES - landmark trial[^28]. Null findings for seizure frequency.                       |
-|                           |                                                                                             |
-|                           | -   Other psychological improvements (HR-QoL, anxiety, depression, dissociation etc.)[^29]. |
-+---------------------------+---------------------------------------------------------------------------------------------+
-| **Neuro-Stimulation**     | -   Emerging evidence base but yet to be confirmed[^30].                                    |
-+---------------------------+---------------------------------------------------------------------------------------------+
-| **Medication**            | -   Lack of supportive evidence[^31]                                                        |
-+---------------------------+---------------------------------------------------------------------------------------------+
++---------------------------+-----------------------------------------------------------------------------------------------------------------------+
+| Treatment                 |                                                                                                                       |
++===========================+=======================================================================================================================+
+| **Psychological Therapy** | -   Little high quality evidence.                                                                                     |
+|                           |                                                                                                                       |
+|                           | -   A focus on seizure frequency[^26],[^27].                                                                          |
+|                           |                                                                                                                       |
+|                           | -   CODES - landmark trial[^28] found no significant difference for for seizure frequency.                            |
+|                           |                                                                                                                       |
+|                           | -   More convincing evidencd for other outcomes (e.g., functioning QoL, anxiety, depression, dissociation etc.)[^29]. |
++---------------------------+-----------------------------------------------------------------------------------------------------------------------+
+| **Neuro-Stimulation**     | -   Emerging evidence base but yet to be confirmed[^30].                                                              |
++---------------------------+-----------------------------------------------------------------------------------------------------------------------+
+| **Medication**            | -   Lack of supportive evidence[^31]                                                                                  |
++---------------------------+-----------------------------------------------------------------------------------------------------------------------+
 
 [^26]: 47% patients achieve seizure freedom
 
